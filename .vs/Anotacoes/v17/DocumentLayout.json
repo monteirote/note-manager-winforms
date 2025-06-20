@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\modaladicionaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\modaladicionaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "gitignore",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\gitignore",
-              "RelativeDocumentMoniker": "Anotacoes\\gitignore",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\gitignore",
-              "RelativeToolTip": "Anotacoes\\gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-20T01:09:06.171Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "ModalAdicionarItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\ModalAdicionarItem.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\ModalAdicionarItem.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\ModalAdicionarItem.cs [Design]",
+              "RelativeToolTip": "Anotacoes\\Forms\\ModalAdicionarItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T01:40:51.715Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Database\\Database.cs",
-              "RelativeDocumentMoniker": "Anotacoes\\Database\\Database.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Database\\Database.cs",
-              "RelativeToolTip": "Anotacoes\\Database\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T01:01:30.403Z",
+              "WhenOpened": "2025-06-20T01:39:47.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Program.cs",
-              "RelativeDocumentMoniker": "Anotacoes\\Program.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Program.cs",
-              "RelativeToolTip": "Anotacoes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwEcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T01:00:07.066Z",
+              "WhenOpened": "2025-06-20T01:31:58.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Form1.cs",
-              "RelativeDocumentMoniker": "Anotacoes\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Form1.cs [Design]",
-              "RelativeToolTip": "Anotacoes\\Form1.cs [Design]",
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T00:58:53.154Z",
+              "WhenOpened": "2025-06-20T01:30:36.751Z",
               "EditorCaption": " [Design]"
             }
           ]
