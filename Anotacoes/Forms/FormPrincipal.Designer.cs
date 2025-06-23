@@ -1,4 +1,7 @@
-﻿namespace Anotacoes
+﻿using System.Drawing;
+using System.Windows.Forms;
+
+namespace Anotacoes
 {
     partial class FormPrincipal
     {
@@ -38,7 +41,7 @@
             this.Lista.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
             this.Lista.Location = new System.Drawing.Point(41, 100);
             this.Lista.Name = "Lista";
-            this.Lista.Size = new System.Drawing.Size(1113, 629);
+            this.Lista.Size = new System.Drawing.Size(812, 629);
             this.Lista.TabIndex = 0;
             // 
             // label1
@@ -54,24 +57,30 @@
             // 
             // button1
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(884, 24);
+            this.button1.BackColor = System.Drawing.Color.LightBlue;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Microsoft Tai Le", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
+            this.button1.Location = new System.Drawing.Point(427, 24);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(270, 58);
+            this.button1.Size = new System.Drawing.Size(58, 58);
             this.button1.TabIndex = 2;
-            this.button1.Text = "Adicionar";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Text = "+";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form1
+            // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1199, 763);
+            this.ClientSize = new System.Drawing.Size(897, 763);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Lista);
-            this.Name = "Form1";
+            this.Name = "FormPrincipal";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

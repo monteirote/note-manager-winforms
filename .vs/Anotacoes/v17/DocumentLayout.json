@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\",
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\modaladicionaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\controls\\registroitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\controls\\registroitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\modaladicionaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\modaladicionaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\usu\u00E1rio\\source\\repos\\anotacoes\\anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|c:\\users\\matheus\\desktop\\reps\\indep\\note-manager-winforms\\anotacoes\\forms\\controls\\registroitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B2D5E6-D7DA-458E-82EE-7D07B11369AB}|Anotacoes\\Anotacoes.csproj|solutionrelative:anotacoes\\forms\\controls\\registroitemcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +34,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "RegistroItemControl.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "RelativeToolTip": "Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:39:35.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroItemControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "RelativeDocumentMoniker": "Anotacoes\\Forms\\Controls\\RegistroItemControl.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\Controls\\RegistroItemControl.cs [Design]",
+              "RelativeToolTip": "Anotacoes\\Forms\\Controls\\RegistroItemControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:08:37.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ModalAdicionarItem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\ModalAdicionarItem.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\ModalAdicionarItem.cs",
               "RelativeDocumentMoniker": "Anotacoes\\Forms\\ModalAdicionarItem.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\ModalAdicionarItem.cs [Design]",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\ModalAdicionarItem.cs [Design]",
               "RelativeToolTip": "Anotacoes\\Forms\\ModalAdicionarItem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T01:40:51.715Z",
@@ -42,37 +75,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormPrincipal.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
               "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.Designer.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.Designer.cs",
               "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T01:39:47.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.cs",
               "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAhwEcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T01:31:58.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "Anotacoes\\Forms\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Usu\u00E1rio\\source\\repos\\Anotacoes\\Anotacoes\\Forms\\FormPrincipal.cs [Design]",
+              "ToolTip": "C:\\Users\\Matheus\\Desktop\\reps\\indep\\note-manager-winforms\\Anotacoes\\Forms\\FormPrincipal.cs [Design]",
               "RelativeToolTip": "Anotacoes\\Forms\\FormPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T01:30:36.751Z",
