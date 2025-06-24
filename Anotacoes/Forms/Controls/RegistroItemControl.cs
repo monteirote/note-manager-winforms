@@ -14,9 +14,10 @@ namespace Anotacoes {
             InitializeComponent();
         }
 
-        public RegistroItemControl(string titulo) : this()
+        public RegistroItemControl (string titulo, int id) : this()
         {
             lblTitulo.Text = titulo;
+            Id = id;
         }
 
         private void InitializeComponent()
@@ -37,27 +38,31 @@ namespace Anotacoes {
             // 
             // btnEditar
             // 
-            this.btnEditar.Location = new System.Drawing.Point(593, 3);
+            this.btnEditar.BackColor = System.Drawing.Color.LightYellow;
+            this.btnEditar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnEditar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEditar.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnEditar.Location = new System.Drawing.Point(477, 3);
             this.btnEditar.Name = "btnEditar";
-            this.btnEditar.Size = new System.Drawing.Size(195, 35);
+            this.btnEditar.Size = new System.Drawing.Size(195, 34);
             this.btnEditar.TabIndex = 1;
             this.btnEditar.Text = "Editar";
+            this.btnEditar.UseVisualStyleBackColor = false;
             this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnExcluir
             // 
-            this.btnExcluir.BackColor = System.Drawing.Color.Red;
+            this.btnExcluir.BackColor = System.Drawing.Color.IndianRed;
+            this.btnExcluir.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnExcluir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExcluir.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.btnExcluir.Location = new System.Drawing.Point(477, 2);
+            this.btnExcluir.Location = new System.Drawing.Point(678, 3);
             this.btnExcluir.Name = "btnExcluir";
-            this.btnExcluir.Size = new System.Drawing.Size(110, 35);
+            this.btnExcluir.Size = new System.Drawing.Size(110, 34);
             this.btnExcluir.TabIndex = 2;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = false;
             this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
-            this.btnExcluir.FlatStyle = FlatStyle.Flat;
-            this.btnExcluir.FlatAppearance.BorderSize = 2;
-            this.btnExcluir.FlatAppearance.BorderColor = Color.Black;
             // 
             // RegistroItemControl
             // 
@@ -66,7 +71,7 @@ namespace Anotacoes {
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.btnExcluir);
             this.Name = "RegistroItemControl";
-            this.Size = new System.Drawing.Size(791, 41);
+            this.Size = new System.Drawing.Size(793, 42);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -76,6 +81,8 @@ namespace Anotacoes {
             get { return lblTitulo.Text; }
             set { lblTitulo.Text = value; }
         }
+
+        public int Id { get; set; }
 
         public event EventHandler EditarClick;
         public event EventHandler ExcluirClick;

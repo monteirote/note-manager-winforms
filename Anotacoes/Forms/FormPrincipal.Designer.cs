@@ -49,7 +49,7 @@ namespace Anotacoes
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.label1.Location = new System.Drawing.Point(72, 9);
+            this.label1.Location = new System.Drawing.Point(226, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(337, 73);
             this.label1.TabIndex = 1;
@@ -63,7 +63,7 @@ namespace Anotacoes
             this.button1.Font = new System.Drawing.Font("Microsoft Tai Le", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.BottomRight;
-            this.button1.Location = new System.Drawing.Point(427, 24);
+            this.button1.Location = new System.Drawing.Point(589, 24);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(58, 58);
             this.button1.TabIndex = 2;
@@ -76,10 +76,12 @@ namespace Anotacoes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(897, 763);
+            this.ClientSize = new System.Drawing.Size(888, 766);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Lista);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
             this.Name = "FormPrincipal";
             this.Text = "Form1";
             this.ResumeLayout(false);

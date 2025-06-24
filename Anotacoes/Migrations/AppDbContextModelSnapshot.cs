@@ -22,7 +22,7 @@ namespace Anotacoes.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Comentario")
+                    b.Property<string>("Comment")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime>("CreatedAt")
